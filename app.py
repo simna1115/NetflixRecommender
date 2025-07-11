@@ -1,3 +1,21 @@
+import os
+import gdown
+
+# Create model directory if it doesn't exist
+if not os.path.exists("model"):
+    os.makedirs("model")
+
+# Download the similarity.pkl file from Google Drive if it's missing
+file_path = "model/similarity.pkl"
+if not os.path.exists(file_path):
+    gdown.download(
+        "https://drive.google.com/uc?id=19eihpBmQ1fC-acyxvuvUI3MWuXVXKwiY",
+        file_path,
+        quiet=False
+    )
+
+
+
 import streamlit as st
 import recommender  # Your Python file with recommend() logic
 
