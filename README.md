@@ -148,4 +148,4 @@ I hope it inspires someone else starting from zero like I did.
 📍 Based in India | 💬 Open to internships, collaborations, and job opportunities
 
 📫 Reach me at: psvishal1115@gmail.com  
-🔗 [GitHub](https://github.com/simna1115) • [LinkedIn](www.linkedin.com/in/dsvishal11)  
+🔗 [GitHub](https://github.com/simna1115) • [LinkedIn](https://www.linkedin.com/in/dsvishal11)  
