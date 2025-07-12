@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/github-banner.png" alt="Netflix Recommender Banner" width="100%" />
+</p>
+
+
 # 🎬 Netflix Movie Recommender System
 
 A simple and interactive content-based movie recommendation system built with **Python**, **Pandas**, **Scikit-learn**, and **Streamlit**. 
